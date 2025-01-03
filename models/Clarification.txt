@@ -1,0 +1,4 @@
+Clarification
+The model framework in this paper is based on Sequence Generate Adversarial Networks , the original code is linked below, for the policy update part and the discriminator part we have made reference to and changed to pytorch version.https://github.com/LantaoYu/SeqGAN
+Please contact us if there is any infringement.
+The entire code will be made available upon acceptance of the paper.
